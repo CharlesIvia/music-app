@@ -27,7 +27,7 @@ header p {
 }
 
 .pads {
-    background: lightblue;
+    /* background: lightblue; */
     width: 100%;
     display: flex;
 }
@@ -42,6 +42,7 @@ header p {
 
 .pad1 {
     background: #60d394;
+    border-top-left-radius: 5px;
 }
 
 .pad2 {
@@ -62,6 +63,7 @@ header p {
 
 .pad6 {
     background: #60b2d3;
+    border-top-right-radius: 5px;
 }
 
 .visual > div {
