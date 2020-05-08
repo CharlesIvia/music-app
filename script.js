@@ -1,4 +1,5 @@
 const sounds = document.querySelectorAll(".sound");
+console.log(sounds);
 const pads = document.querySelectorAll(".pads div"); //select all divs in pads div
 const visual = document.querySelector(".visual");
 const colors = ["#60d394","#282928","#c060d3","#d3d160","#6860d3","#60b2d3"];
