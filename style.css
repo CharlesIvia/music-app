@@ -45,7 +45,7 @@ header p {
 }
 
 .pad2 {
-    background: #d36060;
+    background: #282928;
 }
 
 .pad3 {
@@ -81,11 +81,15 @@ header p {
     }
     50%{
         bottom: 50%;
-        left: 80%;
+        left: 50%;
     }
     100%{
         bottom: 0%;
         left: 80%;
     }
+}
+
+html{
+    background-color: rgb(196, 82, 82);
 }
 
